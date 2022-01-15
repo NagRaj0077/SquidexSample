@@ -30,7 +30,7 @@
     "core-js": "3.2.1",
     "graphiql": "0.13.2",
     "graphql": "14.4.2",
-    "marked": "0.7.0",
+    "marked": "4.0.10",
     "mersenne-twister": "1.1.0",
     "moment": "2.24.0",
     "mousetrap": "1.6.3",
